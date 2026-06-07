@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+xgboost
+joblib
+fpdf
+plotly
+openpyxl
+xlrd
+gender-guesser
